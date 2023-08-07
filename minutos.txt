@@ -1,0 +1,3 @@
+# TODO: MIN 9
+
+# FIXME: En el caso de q no lee los datos es pq vos en el controlador esta intentando acceder a las propiedades como si fuesen objetos y solamentes estas trabajando como si fuese un array comun, para solucionar esto tenes q convertir al controlador en una clase
